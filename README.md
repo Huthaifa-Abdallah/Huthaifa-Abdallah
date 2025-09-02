@@ -25,10 +25,11 @@
   <a href="https://wa.me/your-number"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
+### Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,visualstudio,html,css,bootstrap,mysql,git,github,linux,js&perline=12" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,visualstudio,html,css,bootstrap,git,github,linux,js&perline=8" /><br>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
-
 
 ---
 
