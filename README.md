@@ -10,12 +10,13 @@
   <img src="https://komarev.com/ghpvc/?username=Huthaifa-Abdallah&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 <br>
-### About Me <br>
+### About Me
+<p
 🎓 Computer Science Student at University of Jordan <br>
 💻 Passionate about Backend Development (.NET / ASP.NET Core) <br>
 🚀 Active in Competitive Programming (Codeforces, LeetCode) <br>
 📚 Currently learning System Design and Advanced Algorithms
-
+</p>
 
 ### Connect with me
 <p align="left">
