@@ -12,10 +12,11 @@
 <br>
 
 ### About Me
-🎓 Computer Science Student at University of Jordan <br>
-💻 Passionate about Backend Development (.NET / ASP.NET Core) <br>
-🚀 Active in Competitive Programming (Codeforces, LeetCode) <br>
-📚 Currently learning System Design and Advanced Algorithms
+- 🎓 Computer Science Student at University of Jordan  
+- 💻 Passionate about Backend Development (.NET / ASP.NET Core)  
+- 🚀 Active in Competitive Programming (Codeforces, LeetCode)  
+- 📚 Currently learning System Design and Advanced Algorithms
+
 
 
 ### Connect with me
