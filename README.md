@@ -2,7 +2,7 @@
 <p align="center"><b>Software Engineer | .NET Developer</b></p>
 
 <p align="center">
-  <a href="https://your-portfolio-link">My Portfolio</a> •
+ 
   <a href="https://your-cv-link">Check My CV</a>
 </p>
 
