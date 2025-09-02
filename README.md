@@ -15,6 +15,7 @@
 - 🚀 Active in Competitive Programming (Codeforces, LeetCode)  
 - 📚 Currently learning System Design and Advanced Algorithms  
 
+
 ### Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
