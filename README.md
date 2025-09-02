@@ -26,8 +26,9 @@
 
 ### GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Huthaifa-Abdallah&theme=darkhub&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Huthaifa-Abdallah&theme=onedark&row=1&column=6" />
 </p>
+
 
 ### Stats
 <p align="center">
