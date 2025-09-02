@@ -27,8 +27,8 @@
 
 ### Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,visualstudio,html,css,bootstrap,git,github,linux,js&perline=8" /><br>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,html,css,bootstrap,git,github,linux,js&perline=8" /><br>
+
 </p>
 
 ---
