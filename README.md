@@ -3,7 +3,7 @@
 
 <p align="center">
  
-  <a href="https://your-cv-link">Check My CV</a>
+  <a href="[https://your-cv-link](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)">Check My CV</a>
 </p>
 
 <p align="center">
