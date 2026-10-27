@@ -3,7 +3,7 @@
 
 <p align="center">
  
-<a href="https://drive.google.com/file/d/1x5AAK-26mBMo3J96dH9jYvU4O8FNZhKq/view?usp=sharing" target="_blank" rel="noopener noreferrer">Check My CV</a>
+<a href="https://drive.google.com/file/d/1EKQtwc5-kKHZN2EveraaJWbXD5ml_Z7Y/view?usp=sharing" target="_blank" rel="noopener noreferrer">Check My CV</a>
 
 
 </p>
